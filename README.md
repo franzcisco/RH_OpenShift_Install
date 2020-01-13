@@ -39,3 +39,6 @@ Execute the playbook in this way:
 ```
 ansible-playbook -i inventory init-ocp-host.yml
 ```
+Demo:
+https://www.par-tec.it/centro-risorse/item/311-cosa-puoi-fare-con-ansible-in-1200-secondi
+```
